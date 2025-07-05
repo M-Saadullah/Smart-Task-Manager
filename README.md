@@ -20,7 +20,6 @@ Features include task CRUD, categories, priorities, deadlines, smart filtering, 
 6. [API Reference](#api-reference)
 7. [Usage](#usage)
 8. [Future Enhancements](#future-enhancements)
-9. [License](#license)
 
 ---
 
@@ -241,7 +240,4 @@ curl http://localhost:8082/api/tasks?page=0&size=10&sort=deadline,asc
 
 ---
 
-## License
-
-MIT © Your Name
 
