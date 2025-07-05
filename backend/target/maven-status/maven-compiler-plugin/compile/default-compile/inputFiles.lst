@@ -1,0 +1,15 @@
+C:\Users\Hp\OneDrive\Desktop\JeenyProject\backend\src\main\java\com\example\taskmanager\config\SecurityConfig.java
+C:\Users\Hp\OneDrive\Desktop\JeenyProject\backend\src\main\java\com\example\taskmanager\controller\TaskController.java
+C:\Users\Hp\OneDrive\Desktop\JeenyProject\backend\src\main\java\com\example\taskmanager\dto\TaskRequest.java
+C:\Users\Hp\OneDrive\Desktop\JeenyProject\backend\src\main\java\com\example\taskmanager\dto\TaskResponse.java
+C:\Users\Hp\OneDrive\Desktop\JeenyProject\backend\src\main\java\com\example\taskmanager\exception\GlobalExceptionHandler.java
+C:\Users\Hp\OneDrive\Desktop\JeenyProject\backend\src\main\java\com\example\taskmanager\exception\ResourceNotFoundException.java
+C:\Users\Hp\OneDrive\Desktop\JeenyProject\backend\src\main\java\com\example\taskmanager\model\Category.java
+C:\Users\Hp\OneDrive\Desktop\JeenyProject\backend\src\main\java\com\example\taskmanager\model\LocalDateAttributeConverter.java
+C:\Users\Hp\OneDrive\Desktop\JeenyProject\backend\src\main\java\com\example\taskmanager\model\Priority.java
+C:\Users\Hp\OneDrive\Desktop\JeenyProject\backend\src\main\java\com\example\taskmanager\model\Task.java
+C:\Users\Hp\OneDrive\Desktop\JeenyProject\backend\src\main\java\com\example\taskmanager\repository\TaskRepository.java
+C:\Users\Hp\OneDrive\Desktop\JeenyProject\backend\src\main\java\com\example\taskmanager\service\impl\TaskServiceImpl.java
+C:\Users\Hp\OneDrive\Desktop\JeenyProject\backend\src\main\java\com\example\taskmanager\service\TaskService.java
+C:\Users\Hp\OneDrive\Desktop\JeenyProject\backend\src\main\java\com\example\taskmanager\spec\TaskSpecification.java
+C:\Users\Hp\OneDrive\Desktop\JeenyProject\backend\src\main\java\com\example\taskmanager\TaskManagerApplication.java
